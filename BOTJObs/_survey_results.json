@@ -1,0 +1,267 @@
+[
+  {
+    "company": "Mollie",
+    "url": "https://jobs.mollie.com/",
+    "status": 200,
+    "size": 632491,
+    "platforms": [
+      "Framer"
+    ],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Revolut",
+    "url": "https://www.revolut.com/careers/",
+    "status": 403,
+    "size": 873081,
+    "platforms": [],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Uber",
+    "url": "https://jobs.uber.com/en/",
+    "status": 200,
+    "size": 237162,
+    "platforms": [
+      "Next.js"
+    ],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Adyen",
+    "url": "https://careers.adyen.com/vacancies",
+    "status": 200,
+    "size": 135212,
+    "platforms": [],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Backbase",
+    "url": "https://www.backbase.com/careers/jobs",
+    "status": 200,
+    "size": 610283,
+    "platforms": [],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Atlassian",
+    "url": "https://www.atlassian.com/company/careers/all-jobs",
+    "status": 200,
+    "size": 146524,
+    "platforms": [],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Datadog",
+    "url": "https://careers.datadoghq.com/all-jobs/",
+    "status": 200,
+    "size": 115241,
+    "platforms": [],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Mews",
+    "url": "https://www.mews.com/en/careers",
+    "status": 200,
+    "size": 1083066,
+    "platforms": [
+      "Next.js"
+    ],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Samsara",
+    "url": "https://www.samsara.com/uk/company/careers",
+    "status": 200,
+    "size": 265300,
+    "platforms": [],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Flexport",
+    "url": "https://www.flexport.com/careers/jobs/",
+    "status": 200,
+    "size": 884817,
+    "platforms": [
+      "Greenhouse"
+    ],
+    "api": "https://boards-api.greenhouse.io/v1/boards/flexport/jobs",
+    "count": 165
+  },
+  {
+    "company": "Optiver",
+    "url": "https://www.optiver.com/join-us/jobs/",
+    "status": 200,
+    "size": 166302,
+    "platforms": [],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Datasnipper",
+    "url": "https://careers.datasnipper.com/job-listing",
+    "status": 200,
+    "size": 24422,
+    "platforms": [
+      "Ashby"
+    ],
+    "api": "https://api.ashbyhq.com/posting-api/job-board/datasnipper",
+    "count": 31
+  },
+  {
+    "company": "MessageBird",
+    "url": "https://bird.com/careers",
+    "status": 200,
+    "size": 360704,
+    "platforms": [
+      "Framer",
+      "Next.js"
+    ],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Picnic",
+    "url": "https://jobs.picnic.app/en/",
+    "status": 200,
+    "size": 397513,
+    "platforms": [
+      "Next.js"
+    ],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Bunq",
+    "url": "https://careers.bunq.com/",
+    "status": 200,
+    "size": 506443,
+    "platforms": [
+      "Framer"
+    ],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Justeat",
+    "url": "https://careers.justeattakeaway.com/global/en",
+    "status": 200,
+    "size": 129397,
+    "platforms": [
+      "Phenom"
+    ],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Mendix",
+    "url": "https://www.mendix.com/careers/",
+    "status": 200,
+    "size": 274436,
+    "platforms": [],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Booking",
+    "url": "https://careers.booking.com/",
+    "status": 200,
+    "size": 168569,
+    "platforms": [
+      "iCIMS"
+    ],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Miro",
+    "url": "https://miro.com/careers/open-positions/",
+    "status": 200,
+    "size": 104119,
+    "platforms": [
+      "Next.js"
+    ],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Stripe",
+    "url": "https://stripe.com/jobs/search",
+    "status": 200,
+    "size": 335769,
+    "platforms": [
+      "Next.js"
+    ],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Twilio",
+    "url": "https://jobs.twilio.com/careers",
+    "status": 200,
+    "size": 147098,
+    "platforms": [
+      "Eightfold"
+    ],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Databricks",
+    "url": "https://www.databricks.com/company/careers",
+    "status": 200,
+    "size": 809132,
+    "platforms": [],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Salesforce",
+    "url": "https://www.salesforce.com/company/careers/jobs/",
+    "status": 200,
+    "size": 119321,
+    "platforms": [],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "ServiceNow",
+    "url": "https://careers.servicenow.com/",
+    "status": 200,
+    "size": 76516,
+    "platforms": [],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Workday",
+    "url": "https://www.workday.com/en-us/company/careers.html",
+    "status": 200,
+    "size": 258209,
+    "platforms": [
+      "Workday"
+    ],
+    "api": null,
+    "count": null
+  },
+  {
+    "company": "Cisco",
+    "url": "https://jobs.cisco.com/jobs/SearchJobs/",
+    "status": 200,
+    "size": 176896,
+    "platforms": [
+      "Phenom"
+    ],
+    "api": null,
+    "count": null
+  }
+]
